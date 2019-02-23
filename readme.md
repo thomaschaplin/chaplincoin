@@ -1,4 +1,4 @@
-# Task API
+# ChaplinCoin
 
 A demo Blockchain written in NodeJS
 
